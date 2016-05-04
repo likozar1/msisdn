@@ -18,7 +18,7 @@ func main() {
 	
     // Arguments object
     args := Args{
-        M: "+38640294020",
+        M: "+38640574687",
     }
 	var network bytes.Buffer
 
